@@ -1,0 +1,24 @@
+10:04PM on December 07, 2016 - { '63}
+
+
+10:04PM on December 07, 2016 - { 'Pino A0':352, 'Pino A1': 312, 'Pino A2': 289}
+
+
+10:04PM on December 07, 2016 - { 'Pino A0':357, 'Pino A1': 320, 'Pino A2': 299}
+
+
+10:04PM on December 07, 2016 - { 'Pino A0':358, 'Pino A1': 321, 'Pino A2': 300}
+
+
+10:04PM on December 07, 2016 - { 'Pino A0':359, 'Pino A1': 322, 'Pino A2': 301}
+
+
+10:04PM on December 07, 2016 - { 'Pino A0':360, 'Pino A1': 323, 'Pino A2': 303}
+
+
+10:04PM on December 07, 2016 - { 'Pino A0':360, 'Pino A1': 323, 'Pino A2': 302}
+
+
+10:04PM on December 07, 2016 - { 'Pino A0':360, 'Pino A1': 323, 'Pino A2': 303}
+
+
